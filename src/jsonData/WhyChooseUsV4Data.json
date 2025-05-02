@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "listTitle": "Vulnerability Detection",
+        "listText": "Automatically detect common web vulnerabilities like XSS, SQL Injection, CSRF, and Security Misconfigurations, before attackers do.",
+        "listLink": "services-details",
+        "listIcon": "fas fa-long-arrow-right",
+        "listAnimation": "fadeInLeft",
+        "animationDelay": "0ms"
+    },
+    {
+        "id": 2,
+        "listTitle": "Domain & Subdomain Discovery",
+        "listText": "Uncover all your public-facing assets, including forgotten subdomains and endpoints. Map your web attack surface completely.",
+        "listLink": "",
+        "listIcon": "fas fa-long-arrow-right",
+        "listAnimation": "fadeInLeft",
+        "animationDelay": "500ms"
+    },
+    {
+        "id": 3,
+        "listTitle": "Real-Time Threat Insights",
+        "listText": "Get actionable insights with clear explanations, risk levels, and suggested remediations. Stay informed, stay ahead.",
+        "listLink": "services-details",
+        "listIcon": "fas fa-long-arrow-right",
+        "listAnimation": "fadeInLeft",
+        "animationDelay": "900ms"
+    }
+]

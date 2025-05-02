@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "end": 16,
+        "duration": 4,
+        "operator": "+",
+        "text": "Vulnerabilities Detected By our users across thousands of web apps"
+    },
+    {
+        "id": 2,
+        "end": 6,
+        "duration": 4,
+        "operator": "+",
+        "text": "User in 1 country"
+    }
+]
