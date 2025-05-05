@@ -62,7 +62,7 @@ const ShowCaseProgress = ({ progress }) => {
                 </svg>
                 <CircularProgressbar strokeWidth={10} value={progressValue} text={`${progressValue}%`} styles={gradientStyles} />
             </div>
-            <h4>200K+ Traffic traffic increase within just 15 days</h4>
+            <h4>8+ Traffic traffic increase within just 7 days</h4>
         </>
     );
 };

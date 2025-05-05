@@ -96,7 +96,7 @@ const ToolsSection = () => {
       <div className="tools-content">
         <div className="tools-grid">
           {tools[activeTab].map((tool) => (
-            <Link to={`/tool-details/${tool.id}`} key={tool.id} className="tool-card">
+            <Link to={`https://web-defender-admin.vercel.app`} key={tool.id} className="tool-card">
               <div className="tool-icon">{tool.icon}</div>
               <div className="tool-name">{tool.name}</div>
               <div className="free-badge">✓</div>
@@ -107,7 +107,7 @@ const ToolsSection = () => {
           <div className="free-version">
             <span className="free-icon">✓</span> try light version for free
           </div>
-          <Link to="/all-tools" className="explore-all">
+          <Link to="https://web-defender-admin.vercel.app" className="explore-all">
             Explore all 24 tools →
           </Link>
         </div>

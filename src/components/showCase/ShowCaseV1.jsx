@@ -34,14 +34,14 @@ const ShowCaseV1 = () => {
                   ))}
                 </div>
                 <div className="seo-progess-items">
-                  <div className="process-item">
-                    <h5>Global Rank</h5>
+                  {/* <div className="process-item">
+                    <h5>C Rank</h5>
                     <p>Internationally</p>
                   </div>
                   <div className="process-item">
                     <h5>Business Growth</h5>
                     <p>Upto 100%</p>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

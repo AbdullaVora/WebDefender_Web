@@ -281,9 +281,7 @@ const MainMenu = ({ isOpen, closeMenu, toggleSubMenu, toggleMegaMenu }) => {
           <li>
             <Link to="/#features">Services</Link>
           </li>
-          <li>
-            <Link to="/#pricing">Pricing</Link>
-          </li>
+          
           <li>
             <Link to="/#contact">Contact us</Link>
           </li>

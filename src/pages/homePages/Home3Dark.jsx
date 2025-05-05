@@ -30,11 +30,11 @@ const Home3Dark = () => {
             <WhyChooseUsV3 />
             <ServiceV4 />
             {/* <ProjectV2 /> */}
-            <PriceV1 lightShape={true} />
+            {/* <PriceV1 /> */}
             {/* <TestimonialV1 /> */}
             {/* <TeamV1 bgColor="bg-gray" /> */}
-            <ContactV1 contactClass="bg-gray" />
-            <FooterV1 />
+            <ContactV1 />
+            <FooterV1 contactClass="bg-gray" />
         </>
     );
 };

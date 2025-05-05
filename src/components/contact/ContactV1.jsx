@@ -10,7 +10,7 @@ const ContactV1 = ({ contactClass }) => {
                     <img src="/img/shape/18.png" alt="Shape" />
                 </div>
                 <div className="container">
-                    <div className="row align-center">
+                    <div className="row">
                         <div className="col-tact-stye-one col-lg-5">
                             <ContactInfo />
                         </div>
